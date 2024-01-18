@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/1lomaspersad" target="blank"><img src="https://img.shields.io/twitter/follow/1lomaspersad?logo=twitter&style=for-the-badge" alt="1lomaspersad" /></a> </p>
 
-- 🔭 I’m currently working on [test](test)
+#- 🔭 I’m currently working on [test](test)
 
-- 🌱 I’m currently learning **Test**
+#- 🌱 I’m currently learning **Test**
 
-- 👯 I’m looking to collaborate on [test](test)
+#- 👯 I’m looking to collaborate on [test](test)
 
 - 👨‍💻 All of my projects are available at [https://lomaspersad.github.io/index.html#portfolio](https://lomaspersad.github.io/index.html#portfolio)
 
-- 📝 I regularly write articles on [test](test)
+#- 📝 I regularly write articles on [test](test)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
