@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomaspersad" alt="lomaspersad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1lomaspersad" target="blank"><img src="https://img.shields.io/twitter/follow/1lomaspersad?logo=twitter&style=for-the-badge" alt="1lomaspersad" /></a> </p>
-<!--- 
-- 🔭 I’m currently working on [test](test)
 
-- 🌱 I’m currently learning **Test**
+<!---  - 🔭 I’m currently working on [test](test)  - 🌱 I’m currently learning **Test**  - 👯 I’m looking to collaborate on [test](test) -->
+
+
  
-- 👯 I’m looking to collaborate on [test](test)
- -->
+
+ 
 
 - 👨‍💻 All of my projects are available at [https://lomaspersad.github.io/index.html#portfolio](https://lomaspersad.github.io/index.html#portfolio)
 
