@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lomaspersad.github.io/index.html#portfolio](https://lomaspersad.github.io/index.html#portfolio)
 
-<> - 📝 I regularly write articles on [test](test)
+< - 📝 I regularly write articles on [test](test) >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
