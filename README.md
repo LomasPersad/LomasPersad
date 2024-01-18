@@ -1,3 +1,5 @@
+<!---  Made using : https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
 <h1 align="center">Hi 👋, I'm Lomas Persad</h1>
 <h3 align="center">Biomechanics Maverick and research Scientist 💻🚀"</h3>
 
