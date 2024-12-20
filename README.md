@@ -1,7 +1,7 @@
 <!---  Made using : https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Lomas Persad</h1>
-<h3 align="center">Healthcare Data Scientist & Biostatistician 💻🚀</h3> 
+<h3 align="center">Healthcare Data Scientist| Biostatistician 💻 | AI/ML in Healthcare 🚀 | Big Data & EHR Analytics 📊 </h3> 
 <!---<h3 align="center">Biomechanics Maverick and research Scientist 💻🚀</h3>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomaspersad&label=Profile%20views&color=0e75b6&style=flat" alt="lomaspersad" /> </p>
